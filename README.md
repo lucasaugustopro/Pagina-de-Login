@@ -6,3 +6,6 @@
 - Usando uma section para a imagem svg.
 - Usando Flex Box.
 - Usando MEDIA QUERIES para o responsivo.
+
+
+![Screenshot_3](https://user-images.githubusercontent.com/103678075/165628959-9076dccb-dc7b-441e-83a8-5557925da86d.png)
