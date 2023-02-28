@@ -1,9 +1,4 @@
-# pagina-de-login
-- Página simples de login usando HTML e CSS.
-- Usando formulário para fazer a parte de login.
-- Usando diferentes inputs em HTML.
-- Usando label.
-- Usando uma section para a imagem svg.
-- Usando Flex Box.
-- Usando MEDIA QUERIES para o responsivo.
+# Página de Login
+<h2 align="center> Página de Login</h2>
+<p>Página simples de login usando HTML e Css como prática final de estudos sobre Css e seus componentes.</p>
 
